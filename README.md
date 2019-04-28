@@ -2,7 +2,9 @@
 Local distributed model evaluation framework for the SHHS dataset
 
 ## How to install
-
+To install, make sure you have Python 3, preferrably Python 3.6.5 installed.
+  * To install dependencies, `pip install -r requirements.txt`
+  * Grab a CSV dataset [here](https://drive.google.com/file/d/1F6CLmeyVDNBNB1dhNqJnVRpoojBplMxD/view?usp=sharing), name it as `patients.csv` and place it on the root of this folder (same level as this README). 
 
 ## How to use
 To use, simply run either
