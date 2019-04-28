@@ -23,5 +23,5 @@ class RandomForestPCA:
 if __name__ == '__main__':
   pipeline(
     RandomForestPCA(), 
-    csv_path="./5patients.csv"
+    csv_path="./patients.csv"
   )
